@@ -2,10 +2,9 @@
   ### Hi there 👋
 </div>
 
-<div id="stat" align="center>
-  ### :fire: Stat :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexErmakov97&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+### :fire: Stat :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexErmakov97&theme=dark&background=000000)](https://git.io/streak-stats)
+
   
 <!--
 **AlexErmakov97/AlexErmakov97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
