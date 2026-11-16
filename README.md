@@ -5,7 +5,7 @@
 ### :fire: Stat :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexErmakov97&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexErmakov97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api?username=AlexErmakov97)](https://github.com/stats-organization/github-stats-extended)
 
   
 <!--
